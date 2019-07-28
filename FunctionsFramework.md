@@ -58,3 +58,11 @@ cp ../package.json .
 npm start
 ```
 
+
+## Navegar en nuestro sitio web
+<walkthrough-spotlight-pointer spotlightId="devshell-web-preview-button"
+                               text="Abrir navegador Web en puerto 8080">
+</walkthrough-spotlight-pointer>
+
+## Detener servidor web con Express.js
+Antes de finalizar debemos abortar la ejecución del comando node, presionando "CTRL + C" en la consola
