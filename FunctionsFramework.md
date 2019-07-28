@@ -52,3 +52,9 @@ Tambien puedes copiar el package.json que viene con este ejercicio, ejecutando e
 ```bash
 cp ../package.json .
 ```
+
+## Ejecutar Servicio Web con "Functions Framework"
+```bash
+npm start
+```
+
